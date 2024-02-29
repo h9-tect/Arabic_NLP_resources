@@ -56,6 +56,9 @@
 - [Artificial Intelligence 4: Expert Systems](https://www.youtube.com/playlist?list=PLJqRpPcJQ_g0YGYXkP8nLfmA6B-fD8Q5y)
 - [Zewail CIE 555 Deep Learning Spring 2023](https://www.youtube.com/playlist?list=PL5JZLxl_tFCcRKT3N5nzEvL8wCZgRS4Eg)
 - [Computer Vision-YOLO](https://www.youtube.com/watch?v=km81lbvr9Qs&list=PL5JZLxl_tFCcur9G9uBpv9G3OkyXcu97O)
+- [التعلم العميق DS-GA 1008 مركز جامعة نيويورك لعلم البيانات](https://atcold.github.io/NYU-DLSP20/ar/)
+
+
 
 - ### Natural language processing
 - (video)[A Short Introduction to Arabic Natural Language Processing (Nizar Habash)](https://www.youtube.com/watch?v=vQL5CUlbw0k)
