@@ -1,5 +1,9 @@
-# Arabic_NLP_resources
-## Mathmatics in arabic 
+# مجموعة من المصادر المهمه في مجال الذكاء الاصطناعي تشمل العديد من المصادر من البداية للنهايه 
+## اعتمدت في الاختيار على عدة شروط 
+- أن يكون المصدر من مكان موثوق به
+- أن يكون المصدر متاح مجانا على اليوتيوب
+- أن يكون المصدر مكتملا أو يغطي نقطه مهمه
+- يمكن ﻷاي شخص طلب تعديله أي مصدر متاح أو اضافة المصدر الذي يراه موافقا للشروط 
 - ### linear algebra
 - [Linear Algebra - جبر خطي Dr. Ahmed Hagag](https://www.youtube.com/watch?v=spiGq99jQ7c&list=PLxIvc-MGOs6iQXFnjF_STbhGdrZBphrv_)
 - [Linear Algebra In Arabic Ahmed Fathi](https://www.youtube.com/watch?v=tGnnO04YtPA&list=PLQkyODvJ8ywu5cwBgKm_BPQ-bIUknhjA6)
